@@ -1,0 +1,32 @@
+.myclass{
+    text-align: center;
+}
+
+
+li {
+    text-align: center;
+    font-size: larger;
+
+}
+
+h3{
+
+    background-color: blueviolet;
+}
+
+
+.imagecontainer{
+    text-align: center;
+    
+
+}
+
+
+ol{
+    text-align: center;
+}
+
+li{
+   list-style-position: inside;
+   
+}
